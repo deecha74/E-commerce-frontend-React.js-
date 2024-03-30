@@ -1,0 +1,22 @@
+.main:hover  .size{
+    display: flex;
+}
+.main{
+    transition: all;
+    
+}
+.main:hover  .button{
+    display: flex;
+}
+.cardhover:hover{
+    @apply flex items-center justify-between transition-all ease-in-out duration-200
+}
+.cardhover:hover img{
+    height: 180px;
+    width: 180px;
+    border-radius: 100px;
+    margin-left: 60px;
+    
+    
+    
+}

@@ -1,0 +1,10 @@
+.annomain .anno1{
+    background-image: url(../../assets/banner.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.annomain .anno2{
+    background-image: url(../../assets/shop.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
